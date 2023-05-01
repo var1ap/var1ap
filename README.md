@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" /> 
 </p>
 
-- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD
+- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, Preview Invironments
 </br>
 
 <!--<p align="center">
